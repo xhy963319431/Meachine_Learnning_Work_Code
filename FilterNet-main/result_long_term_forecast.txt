@@ -1,0 +1,54 @@
+weather_96_96_TexFilter_custom_sl96_pl96_embed128_hidden128_bs128_lr0.01_drop0.0_0  
+mse:0.165044903755188, mae:0.21213547885417938
+
+ml_96_96_TexFilter_custom_sl96_pl96_embed128_hidden128_bs128_lr0.01_drop0.0_0  
+mse:0.5316369533538818, mae:0.4014020264148712
+
+ml_96_96_TexFilter_custom_sl96_pl96_embed128_hidden128_bs128_lr0.01_drop0.0_0  
+mse:0.5302436947822571, mae:0.4010254740715027
+
+ml_96_240_TexFilter_custom_sl96_pl240_embed128_hidden128_bs128_lr0.01_drop0.0_0  
+mse:0.6108866930007935, mae:0.44130346179008484
+
+ml_96_240_TexFilter_custom_sl96_pl240_embed128_hidden128_bs128_lr0.01_drop0.0_0  
+mse:0.6108866930007935, mae:0.44130346179008484
+
+ml_96_240_TexFilter_custom_sl96_pl240_embed128_hidden128_bs128_lr0.01_drop0.0_0  
+mse:0.6108866930007935, mae:0.44130346179008484
+
+ml_96_240_PaiFilter_custom_sl96_pl240_embed128_hidden128_bs128_lr0.01_drop0.0_0  
+mse:0.6571086645126343, mae:0.4596959054470062
+
+ml_96_240_PaiFilter_custom_sl96_pl240_embed128_hidden128_bs128_lr0.01_drop0.0_0  
+mse:0.8385665416717529, mae:0.613158106803894
+
+ml_96_96_PaiFilter_custom_sl96_pl96_embed128_hidden128_bs128_lr0.01_drop0.0_0  
+mse:0.593619167804718, mae:0.5150065422058105
+
+ml_96_96_Transformer_custom_sl96_pl96_embed128_hidden128_bs128_lr0.01_drop0.0_0  
+mse:0.9116539359092712, mae:0.6399453282356262
+
+ml_96_240_Transformer_custom_sl96_pl240_embed128_hidden128_bs128_lr0.01_drop0.0_0  
+mse:1.5752896070480347, mae:0.9771293997764587
+
+ml_96_240_LSTM_custom_sl96_pl240_embed128_hidden128_bs128_lr0.01_drop0.0_0  
+mse:0.8186662197113037, mae:0.607585608959198
+
+ml_96_96_LSTM_custom_sl96_pl96_embed128_hidden128_bs128_lr0.01_drop0.0_0  
+mse:0.5500385165214539, mae:0.4972708523273468
+
+ml_96_96_Transformer_custom_sl96_pl96_embed128_hidden128_bs128_lr0.01_drop0.2_0  
+mse:1.5392247438430786, mae:0.964955747127533
+
+ml_96_240_Transformer_custom_sl240_pl96_embed128_hidden128_bs128_lr0.01_drop0.2_0  
+mse:1.5658292770385742, mae:1.0161150693893433
+
+ml_96_240_Transformer_custom_sl96_pl240_embed128_hidden128_bs128_lr0.01_drop0.5_0  
+mse:1.5316805839538574, mae:0.9954589605331421
+
+ml_96_240_Transformer_custom_sl96_pl240_embed128_hidden128_bs128_lr0.01_drop0.0_0  
+mse:1.0567948818206787, mae:0.7559638023376465
+
+ml_96_240_Transformer_custom_sl96_pl240_embed128_hidden128_bs128_lr0.01_drop0.0_0  
+mse:1.5312508344650269, mae:0.977850615978241
+
