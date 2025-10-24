@@ -34,9 +34,8 @@
 （input+output），如果对时间序列数据处理方面有所疑问的同学，可以和上一届参加过机器学习课
 程的同学进行交流，如果对窗口大小和步长等概念不太清楚的同学可以参考以下博客[1][2][3]。 
 [1]https://blog.csdn.net/qq_47885795/article/details/143462299 
-[2]https://datac.blog.csdn.net/article/details/105498685?fromshare=blogdetail&sharetyp
- e=blogdetail&sharerId=105498685&sharerefer=PC&sharesource=weixin_44709585&sharefrom=fr
- om_link 
+
+[2]https://datac.blog.csdn.net/article/details/105498685?fromshare=blogdetail&sharetype=blogdetail&sharerId=105498685&sharerefer=PC&sharesource=weixin_44709585&sharefrom=from_link 
+ 
 [3]https://datac.blog.csdn.net/article/details/105928752?fromshare=blogdetail&sharetyp
- e=blogdetail&sharerId=105928752&sharerefer=PC&sharesource=weixin_44709585&sharefrom=fr
- om_link
+e=blogdetail&sharerId=105928752&sharerefer=PC&sharesource=weixin_44709585&sharefrom=from_link
